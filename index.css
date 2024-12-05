@@ -1,0 +1,17 @@
+.body{
+    background-color: black; 
+    color: bisque;
+    text-align:center ;
+
+.image{
+    position: relative;
+    border-radius: 15px;
+    align-content: left;
+
+}
+span{
+    font-size: 35px;
+    color: rgb(238, 51, 51); 
+    text-align: center;
+}
+
